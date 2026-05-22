@@ -1,0 +1,9 @@
+db.host=prog3-labs-1inf30.c9ew1kspcczi.us-east-1.rds.amazonaws.com
+db.puerto=3306
+db.esquema=testsoft
+db.usuario=admin
+db.password=l/NDm603Tnrkvyo/mBdDYw==
+db.tipo=MySQL
+
+
+PASSWORD ORIGINAL: labs1inf3020261

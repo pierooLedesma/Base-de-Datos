@@ -1,0 +1,11 @@
+pe\edu\pucp\testsoft\db\DBManagerFactory.class
+pe\edu\pucp\testsoft\db\DBManager.class
+pe\edu\pucp\testsoft\db\utils\CadenaConexion.class
+pe\edu\pucp\testsoft\db\utils\Crypto.class
+pe\edu\pucp\testsoft\db\DBFactoryProvider.class
+pe\edu\pucp\testsoft\db\mysql\MySQLDBManagerFactory.class
+pe\edu\pucp\testsoft\db\utils\CadenaConexion$Builder.class
+pe\edu\pucp\testsoft\db\utils\CadenaConexion$1.class
+pe\edu\pucp\testsoft\db\mysql\MySQLDBManager.class
+pe\edu\pucp\testsoft\db\utils\TipoDB.class
+pe\edu\pucp\testsoft\db\DBFactoryProvider$1.class
