@@ -1,0 +1,6 @@
+Identificador de instancias de bases de datos: baseDeDatos-Preg1
+host: basededatos-preg1.crgmyccwodkh.us-east-1.rds.amazonaws.com
+usuario: admin
+contraseña: examenparcial202601
+puerto: 3306
+Nombre de base de datos inicial (Nombre de la base de datos): BDPreg1
