@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "+a20FnIuKNw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpier\\Downloads\\Prog3\\SoftProgCliente\\SoftProgCliente\\SoftProgCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.10\\microsoft.extensions.objectpool.5.0.10.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.identitymodel.protocols.wstrust\\6.8.0\\microsoft.identitymodel.protocols.wstrust.6.8.0.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\6.8.0\\microsoft.identitymodel.tokens.saml.6.8.0.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\microsoft.identitymodel.xml\\6.8.0\\microsoft.identitymodel.xml.6.8.0.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.private.servicemodel\\4.10.3\\system.private.servicemodel.4.10.3.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.1\\system.security.cryptography.pkcs.6.0.1.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.security.cryptography.xml\\6.0.1\\system.security.cryptography.xml.6.0.1.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.servicemodel.duplex\\4.10.3\\system.servicemodel.duplex.4.10.3.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.servicemodel.federation\\4.10.3\\system.servicemodel.federation.4.10.3.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.servicemodel.http\\4.10.3\\system.servicemodel.http.4.10.3.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.servicemodel.nettcp\\4.10.3\\system.servicemodel.nettcp.4.10.3.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.servicemodel.primitives\\4.10.3\\system.servicemodel.primitives.4.10.3.nupkg.sha512",
+    "C:\\Users\\lpier\\.nuget\\packages\\system.servicemodel.security\\4.10.3\\system.servicemodel.security.4.10.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"System.Security.Cryptography.Pkcs\" 6.0.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-555c-2p6r-68mm",
+      "projectPath": "C:\\Users\\lpier\\Downloads\\Prog3\\SoftProgCliente\\SoftProgCliente\\SoftProgCliente.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\lpier\\Downloads\\Prog3\\SoftProgCliente\\SoftProgCliente\\SoftProgCliente.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
