@@ -1,0 +1,39 @@
+link del AWS Academy: https://awsacademy.instructure.com/login/canvas
+
+Modelo 1:
+{
+  "ConnectionStrings": {
+    "SoftProgDb": "Server=localhost;Port=3306;Database=softprog;User Id=root;Password=;"
+  },
+  "DbSettings": {
+    "Tipo": "MySQL"
+  }
+}
+
+
+Modelo 2:
+{
+  "ConnectionStrings": {
+    "SoftProgDb": "Server=<servidor>;Port=<puerto>;Database=<basedatos>;User Id=<usuario>;Password=<password-encriptado>"
+  },
+  "DbSettings": {
+    "Tipo": "MySQL"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
+
+
+Credenciales:
+Nombre del servidor (host): database-dirigido-07.cfxk6n7lsa5d.us-east-1.rds.amazonaws.com
+Puerto (port): 3306
+Nombre de la base de datos (Database) o esquema (schema): mysql
+usuario (user ID): admin
+contraseña (password): laboratoriodirigido07
+
+169776
